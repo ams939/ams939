@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Learning to Know the Unknown
+subtitle: Aleksanteri's personal website & blog
 
 profile:
   align: right
